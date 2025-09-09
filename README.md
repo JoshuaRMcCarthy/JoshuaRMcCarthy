@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua McCarthy</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
-- 🔭 I’m currently working on [AIdentify](aidentify.vercel.app)
+- 🔭 I’m currently working on [AIdentify](https://playaidentify.com/about)
 
 - 📫 How to reach me **joshuamccarthy31405@gmail.com**
 
