@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joshua McCarthy</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
-- 🔭 I’m currently working on [AIdentify](https://playaidentify.com/about)
+- 🔭 I'm currently working on TAMSIM-R: Trusted Autonomous Monitoring System
+- 🏆 I've recently completed [AIdentify](https://playaidentify.com/about) (1st Place Technology/Education Category - Chapman University GCI Spring 2025 Showcase)
 
 - 📫 How to reach me **joshuamccarthy31405@gmail.com**
 
